@@ -1,0 +1,17 @@
+:root{
+    --cor-texto: #FFFFFF;
+    --cor-fundo: #000000;
+    --cor-destaque: rgb(8, 208, 223);
+    --fonte-padrao: "Mangal";
+    --fonte-especial: "Future Edge";
+}
+
+@font-face {
+    font-family: "Mangal";
+    src: url(../fonts/mangal.ttf);
+}
+
+@font-face {
+    font-family: "Future Edge";
+    src: url(../fonts/future_edge.ttf);
+}
